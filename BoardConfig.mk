@@ -47,6 +47,9 @@ TARGET_OTA_ASSERT_DEVICE := LG7n,TECNO-LG7n,lg7n
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/configs/properties/vendor.prop
 
+# Recovery
+TARGET_RECOVERY_UI_MARGIN_HEIGHT := 70
+
 # SEPolicy
 BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
 
