@@ -1,7 +1,6 @@
 # lg7n package version: LG7n-H892ABCD-S-GL-240530V1767, unless stated otherwise
 
 # AAL
-vendor/lib64/mt6789/libaalservice.so
 vendor/lib64/libaal_cust.so
 
 # Audio Configs
