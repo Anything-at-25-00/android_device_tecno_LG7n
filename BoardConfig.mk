@@ -8,7 +8,7 @@
 include device/tecno/mt6789-common/BoardConfigCommon.mk
 
 # Bootloader
-TARGET_BOOTLOADER_BOARD_NAME := lg7n
+TARGET_BOOTLOADER_BOARD_NAME := luminance
 
 # Boot image
 BOARD_INCLUDE_DTB_IN_BOOTIMG := true
