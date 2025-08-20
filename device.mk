@@ -19,7 +19,8 @@ TARGET_SCREEN_WIDTH := 720
 PRODUCT_PACKAGES += \
 	FrameworksResOverlayLG7n \
     SettingsProviderOverlayLG7n \
-    SystemUIOverlayLG7n
+    SystemUIOverlayLG7n \
+    UpdaterOverlayLG7n
 
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 31
